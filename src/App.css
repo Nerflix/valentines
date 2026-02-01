@@ -1,0 +1,6 @@
+/* Minimal CSS - Most styles injected via JavaScript */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
